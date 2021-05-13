@@ -1,8 +1,7 @@
 # Full HD mailing
-***HTML template tested on popular email clients: Gmail, Yandex.Mail, “The Bat!”, which you can use as a basis for creating your own email design.
-***
+***HTML template tested on popular email clients: Gmail, Yandex.Mail, “The Bat!”, which you can use as a basis for creating your own email design.***
 
-![Horizontal Scrolling Tabs](<HorizontalScrollingTabs-Presentation.jpg>)
+![full HD mailing](<fullHDmailing.png>)
 
 ## The solution includes:
 
