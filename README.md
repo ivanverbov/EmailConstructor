@@ -1,5 +1,5 @@
 # Full HD mailing
-***HTML template basis, tested on popular email clients (Gmail, Yandex.Mail, “The Bat!”) to boost custom email design development.***
+***HTML email template basis, tested on popular email clients (Gmail, Yandex.Mail, “The Bat!”) to boost original email design development.***
 
 ![full HD mailing](<fullHDmailing.png>)
 
